@@ -1,0 +1,30 @@
+export const Gents = {
+    title: "Mens Fashion",
+    image1: "assets/mens/img1.jpeg",
+    image2: "assets/mens/img2.jpeg",
+    image3: "assets/mens/img3.jpeg",
+    image4: "assets/mens/img4.jpeg",
+    image5: "assets/mens/img5.jpeg",
+    image6: "assets/mens/img6.jpeg",
+    price: "999 INR",
+    price: "999 INR",
+    price: "999 INR",
+    price: "999 INR",
+    price: "999 INR",
+}
+
+export const Womens = {
+    title: "Womens Fashion",
+    image1: "assets/womens/img1.jpeg",
+    image2: "assets/womens/img2.jpeg",
+    image3: "assets/womens/img3.jpeg",
+    image4: "assets/womens/img4.jpeg",
+    image5: "assets/womens/img5.jpeg",
+    image6: "assets/womens/img6.jpeg",
+    price: "999 INR",
+    price: "999 INR",
+    price: "999 INR",
+    price: "999 INR",
+    price: "999 INR",
+    price: "999 INR",
+}
