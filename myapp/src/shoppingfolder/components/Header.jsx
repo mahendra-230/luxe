@@ -22,6 +22,7 @@ const Header = () => {
            </div>
            <div className="search">
             <input type="text" placeholder='search' />
+            <button>search</button>
            </div>
            <div className='sign'>
             <button>signIn</button>

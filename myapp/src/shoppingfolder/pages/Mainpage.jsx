@@ -11,6 +11,7 @@ const Mainpage = () => {
 
   const [gentsFashion, SetGentsFashion] = useState(Gents)
   const [womensFashion, SetWomensFashion] = useState(Womens)
+  
 
   return (
     <div>
